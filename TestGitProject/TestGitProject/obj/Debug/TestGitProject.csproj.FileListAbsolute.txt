@@ -1,0 +1,9 @@
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\bin\Debug\TestGitProject.exe.config
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\bin\Debug\TestGitProject.exe
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\bin\Debug\TestGitProject.pdb
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.csprojResolveAssemblyReference.cache
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.Form1.resources
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.Properties.Resources.resources
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.csproj.GenerateResource.Cache
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.exe
+C:\Data\GitProject\FirstRepository\TestGitProject\TestGitProject\obj\Debug\TestGitProject.pdb
