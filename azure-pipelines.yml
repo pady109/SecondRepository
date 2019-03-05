@@ -32,3 +32,12 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- task: CopyFiles@2
+  displayName: 'Copy Files to: $(Build.ArtifactStagingDirectory)'
+  inputs:
+    Contents: |
+     \**\*.exe
+     \**\*.dll
+     \**\readme.txt
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
